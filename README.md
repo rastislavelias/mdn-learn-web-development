@@ -8,7 +8,7 @@ I am learning web development through the MDN tutorials and using this space to 
 - [x] Getting started modules
   - [x] Environment setup
   - [x] First website
-  - [ ] Web standards
+  - [x] Web standards
   - [ ] Soft skills
 - [ ] Core modules
   - [ ] Structuring content with HTML
