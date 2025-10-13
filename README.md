@@ -7,7 +7,7 @@ I am learning web development through the MDN tutorials and using this space to 
 ## Progress
 - [x] Getting started modules
   - [x] Environment setup
-  - [ ] First website
+  - [x] First website
   - [ ] Web standards
   - [ ] Soft skills
 - [ ] Core modules
