@@ -9,7 +9,7 @@ I am learning web development through the MDN tutorials and using this space to 
   - [x] Environment setup
   - [x] First website
   - [x] Web standards
-  - [ ] Soft skills
+  - [x] Soft skills
 - [ ] Core modules
   - [ ] Structuring content with HTML
   - [ ] CSS styling basics
