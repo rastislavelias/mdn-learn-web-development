@@ -32,4 +32,5 @@ I am learning web development through the MDN tutorials and using this space to 
 
 A collection of hands-on projects to practice and reinforce concepts learned in the tutorials.
 
-- [x] [Letter markup](/challenge/01-letter-markup/index.html)
+- [x] [Letter markup](/challenge/01-letter-markup/)
+- [x] [Bird watching site](/challenge/02-bird-watching-site/)
