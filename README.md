@@ -11,7 +11,7 @@ I am learning web development through the MDN tutorials and using this space to 
   - [x] Web standards
   - [x] Soft skills
 - [x] Core modules
-  - [ ] Structuring content with HTML
+  - [x] Structuring content with HTML
   - [ ] CSS styling basics
   - [ ] CSS text styling
   - [ ] CSS layout
