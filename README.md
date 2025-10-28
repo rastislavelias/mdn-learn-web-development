@@ -37,3 +37,4 @@ A collection of hands-on projects to practice and reinforce concepts learned in 
 - [x] [Splash page](/challenge/03-splash-page/)
 - [x] [Planet data table](/challenge/04-planet-data-table/)
 - [x] [Feedback form](/challenge/05-feedback-form/)
+- [x] [Biography page](/challenge/06-biography-page/)
