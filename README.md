@@ -39,3 +39,4 @@ A collection of hands-on projects to practice and reinforce concepts learned in 
 - [x] [Feedback form](/challenge/05-feedback-form/)
 - [x] [Biography page](/challenge/06-biography-page/)
 - [x] [Sizing and decorating](/challenge/08-sizing-and-decorating/)
+- [x] [Styling color scheme search](/challenge/09-styling-color-scheme-search/)
