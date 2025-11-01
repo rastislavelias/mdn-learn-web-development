@@ -12,7 +12,7 @@ I am learning web development through the MDN tutorials and using this space to 
   - [x] Soft skills
 - [x] Core modules
   - [x] Structuring content with HTML
-  - [ ] CSS styling basics
+  - [x] CSS styling basics
   - [ ] CSS text styling
   - [ ] CSS layout
   - [ ] Dynamic scripting with JavaScript
