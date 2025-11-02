@@ -19,7 +19,7 @@ https://rastislavelias.github.io/mdn-learn-web-development/
 - [x] Core modules
   - [x] Structuring content with HTML
   - [x] CSS styling basics
-  - [ ] CSS text styling
+  - [x] CSS text styling
   - [ ] CSS layout
   - [ ] Dynamic scripting with JavaScript
   - [ ] JavaScript frameworks and libraries
