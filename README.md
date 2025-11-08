@@ -20,7 +20,7 @@ https://rastislavelias.github.io/mdn-learn-web-development/
   - [x] Structuring content with HTML
   - [x] CSS styling basics
   - [x] CSS text styling
-  - [ ] CSS layout
+  - [x] CSS layout
   - [ ] Dynamic scripting with JavaScript
   - [ ] JavaScript frameworks and libraries
   - [ ] Accessibility
